@@ -4,7 +4,11 @@
     <groupId>com.centonni</groupId>
     <artifactId>kpakpato-api</artifactId>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <version>1.0.15-RELEASE</version>
+=======
+    <version>1.0.7-RELEASE</version>
+>>>>>>> 9e036a7a2c24510f2e3f66e9cb3f03d75fe86123
 =======
     <version>2.0.5-RELEASE</version>
 >>>>>>> iss53
